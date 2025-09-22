@@ -37,6 +37,7 @@ Explore the interactive Power BI dashboard here:
 
 | File | Description |
 |------|-------------|
+| `dashboardpreview` | Dashboard preview and screenshots |
 | `vidgames script.sql` | SQL script for cleaning and querying the dataset |
 | `vgsales.pbix` | Power BI dashboard file |
 | `README.md` | Project overview and documentation |
