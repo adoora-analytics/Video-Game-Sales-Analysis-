@@ -1,7 +1,7 @@
 
 # 🎮 Video Game Sales Analysis (SQL & Power BI)
 
-This project analyzes global video game sales data to identify the factors that most significantly drive success in different regions (NA, EU, JP, Other). It also explores whether regional performance can be used to predict global sales.
+This project analyzes global video game sales data to identify the factors that most significantly drive success in different regions (North America, Europe, Japan, Others). It also explores whether regional performance can be used to predict global sales.
 
 ---
 
