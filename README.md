@@ -46,8 +46,8 @@ Explore the interactive Power BI dashboard here:
 
 ## 🔍 Key Insights
 
-- **NA & EU sales** are strong predictors of global performance.  
-- **JP sales** show different genre preferences (RPGs more popular).  
+- **North America & Europe sales** are strong predictors of global performance.  
+- **Japan sales** show different genre preferences (RPGs more popular).  
 - **Top publishers**: Nintendo and Electronic Arts dominate global markets.  
 - **Sales trends** peaked in the 2000s and declined in the 2010s.  
 
