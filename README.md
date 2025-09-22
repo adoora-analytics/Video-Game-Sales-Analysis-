@@ -37,7 +37,7 @@ Explore the interactive Power BI dashboard here:
 
 | File | Description |
 |------|-------------|
-| `dashboardpreview` | Dashboard preview and screenshots |
+| `images` | Dashboard preview and screenshots |
 | `vidgames script.sql` | SQL script for cleaning and querying the dataset |
 | `vgsales.pbix` | Power BI dashboard file |
 | `README.md` | Project overview and documentation |
@@ -50,6 +50,26 @@ Explore the interactive Power BI dashboard here:
 - **JP sales** show different genre preferences (RPGs more popular).  
 - **Top publishers**: Nintendo and Electronic Arts dominate global markets.  
 - **Sales trends** peaked in the 2000s and declined in the 2010s.  
+
+---
+
+## 📊 Dashboard Preview
+
+#### 1️⃣ Global Sales by Region
+![Global Sales](image/page-1.png)
+
+#### 2️⃣ Top Publishers
+![Top Publishers](image/page-2.png)
+
+#### 3️⃣ Sales Trends
+![Sales Trends](image/page-3.png)
+
+---
+
+## ⚡ Getting Started
+1. Run `vidgames script.sql` in MySQL to clean & prepare the dataset.  
+2. Open `vgsales.pbix` in Power BI Desktop.  
+3. Explore the visuals or connect to your own dataset.
 
 ---
 
