@@ -57,13 +57,13 @@ Explore the interactive Power BI dashboard here:
 ## 📊 Dashboard Preview
 
 #### 1️⃣ Global Sales by Region
-![Global Sales](image/page-1.png)
+![Global Sales](images/page-1.png)
 
 #### 2️⃣ Top Publishers
-![Top Publishers](image/page-2.png)
+![Top Publishers](images/page-2.png)
 
 #### 3️⃣ Sales Trends
-![Sales Trends](image/page-3.png)
+![Sales Trends](images/page-3.png)
 
 ---
 
