@@ -68,8 +68,9 @@ Explore the interactive Power BI dashboard here:
 ---
 
 ## ⚡ Getting Started
-1. Run `vidgames script.sql` in MySQL to clean & prepare the dataset.  
-2. Open `vgsales.pbix` in Power BI Desktop.  
-3. Explore the visuals or connect to your own dataset.
+1. Import the `dataset.csv` in MySQL.
+2. Run `vidgames script.sql` to clean & prepare the dataset.  
+3. Open `vgsales.pbix` in Power BI Desktop.  
+4. Explore the visuals or connect to your own dataset.
 
 
