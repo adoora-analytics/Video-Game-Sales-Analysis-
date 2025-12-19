@@ -1,11 +1,11 @@
 
-# 🎮 Video Game Sales Analysis (SQL & Power BI)
+#  Video Game Sales Analysis (SQL & Power BI)
 
 This project analyzes global video game sales data to identify the factors that most significantly drive success in different regions (North America, Europe, Japan, Others). It also explores whether regional performance can be used to predict global sales.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The analysis aims to answer:
 
@@ -14,11 +14,11 @@ The analysis aims to answer:
 - Which publishers are most successful globally?
 - Can regional sales be strong predictors of global performance?
 
-👉 Read the full project breakdown here: [Medium Article](https://obajimiaduraa.medium.com/video-games-sales-analysis-with-sql-and-power-bi-64ff1821ffa3)
+ Read the full project breakdown here: [Medium Article](https://obajimiaduraa.medium.com/video-games-sales-analysis-with-sql-and-power-bi-64ff1821ffa3)
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **SQL (MySQL)** → data cleaning, preprocessing, and exploration  
 - **Power BI** → dashboards, visuals, regression, correlation analysis  
@@ -26,14 +26,14 @@ The analysis aims to answer:
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 
 Explore the interactive Power BI dashboard here:  
-👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU2ZmI5MjUtODY4MC00MzY1LTgwYTctODJjNWMxN2ZkN2E1IiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=0efad0ec5e2264003d74)
+ [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU2ZmI5MjUtODY4MC00MzY1LTgwYTctODJjNWMxN2ZkN2E1IiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=0efad0ec5e2264003d74)
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 | File | Description |
 |------|-------------|
@@ -45,7 +45,7 @@ Explore the interactive Power BI dashboard here:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **North America & Europe sales** are strong predictors of global performance.  
 - **Japan sales** show different genre preferences (RPGs more popular).  
@@ -54,20 +54,20 @@ Explore the interactive Power BI dashboard here:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
-#### 1️⃣ Global Sales by Region
+#### 1️ Global Sales by Region
 ![Global Sales](images/page-1.png)
 
-#### 2️⃣ Top Publishers
+#### 2️ Top Publishers
 ![Top Publishers](images/page-2.png)
 
-#### 3️⃣ Sales Trends
+#### 3️ Sales Trends
 ![Sales Trends](images/page-3.png)
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 1. Import the `dataset.csv` in MySQL.
 2. Run `vidgames script.sql` to clean & prepare the dataset.  
 3. Open `vgsales.pbix` in Power BI Desktop.  
